@@ -6,16 +6,16 @@ class PlateCell extends Component {
   constructor(props) {
     super(props);
     this.state = { 
-      color: 'black',
+      color: 'smpl',
     };
 
     this.updateColor = this.updateColor.bind(this);
   }
 
   updateColor() {
-    this.state.color === 'black' ? 
-      this.setState({ color: 'red' }) :
-      this.setState({ color: 'black' })
+    this.state.color === 'smpl' ? 
+      this.setState({ color: 'std' }) :
+      this.setState({ color: 'smpl' })
   }
 
   render() {
