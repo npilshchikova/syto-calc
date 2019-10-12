@@ -1,0 +1,31 @@
+.plate {
+    min-width: 100vh;
+    display: grid;
+    grid-template-areas:
+        "header header"
+        "empty up"
+        "left body";
+}
+
+.plate-header {
+    grid-area: header;
+}
+
+.plate-body {
+    min-width: 100vh;
+    grid-area: body;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+}
+
+.up-ids {
+    grid-area: up;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+}
+
+.left-ids {
+    grid-area: left;
+    display: grid;
+    grid-template-rows: repeat(8, 1fr);
+}
