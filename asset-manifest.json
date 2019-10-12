@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/syto-calc/static/css/main.8c564f69.chunk.css",
+    "main.js": "/syto-calc/static/js/main.799caf34.chunk.js",
+    "main.js.map": "/syto-calc/static/js/main.799caf34.chunk.js.map",
+    "runtime-main.js": "/syto-calc/static/js/runtime-main.1762d529.js",
+    "runtime-main.js.map": "/syto-calc/static/js/runtime-main.1762d529.js.map",
+    "static/css/2.0624914a.chunk.css": "/syto-calc/static/css/2.0624914a.chunk.css",
+    "static/js/2.53ce4b7e.chunk.js": "/syto-calc/static/js/2.53ce4b7e.chunk.js",
+    "static/js/2.53ce4b7e.chunk.js.map": "/syto-calc/static/js/2.53ce4b7e.chunk.js.map",
+    "index.html": "/syto-calc/index.html",
+    "precache-manifest.7b5eff875145910424a7c72fa119bf24.js": "/syto-calc/precache-manifest.7b5eff875145910424a7c72fa119bf24.js",
+    "service-worker.js": "/syto-calc/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/syto-calc/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.8c564f69.chunk.css.map": "/syto-calc/static/css/main.8c564f69.chunk.css.map"
+  }
+}
